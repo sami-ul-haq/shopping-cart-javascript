@@ -1,4 +1,3 @@
-# shopping-cart-javascript
-shopping-cart-javascript
+# Shopping Cart Functionality Using JavaScript
 
-### https://sami-ul-haq.github.io/shopping-cart-javascript/
+### Look At Here https://sami-ul-haq.github.io/shopping-cart-javascript/
